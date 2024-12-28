@@ -1,0 +1,40 @@
+ .logo{
+    width: 100px;
+ }
+  .social-icons{
+    font-size: 25px;
+    color: aqua;
+    
+  }
+  .portfilio-img{
+    width: 350px;
+  }
+  .protfolio{
+    border: 2px solid rgb(160, 150, 150);
+     
+     
+  }
+
+  .form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  }
+  .form-control {
+    background-color: #333;
+    border: none;
+    color: white;
+  }
+  .form-control::placeholder {
+    color: #bbb;
+  }
+  .btn-submit {
+    background-color: cyan;
+    color: black;
+  }
+  .hr{
+    border: 2px solid rgb(194, 169, 169);
+  }
